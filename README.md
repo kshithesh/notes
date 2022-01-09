@@ -10,7 +10,7 @@
 
 [angular](https://github.com/sudheerj/angular-interview-questions)
 
-[react](https://github.com/sudheerj/angular-interview-questions)
+[react](https://github.com/sudheerj/reactjs-interview-questions)
 
 # Misc
 [linux cheat-sheet](https://github.com/sudheerj/Linux-cheat-sheet)
